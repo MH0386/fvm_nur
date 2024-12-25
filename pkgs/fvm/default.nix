@@ -54,6 +54,6 @@ buildDartApplication rec {
     homepage = "https://fvm.app";
     license = lib.licenses.mit;
     platforms = lib.platforms.all;
-    maintainers = [ lib.maintainers.MH0386 ];
+    #maintainers = [ lib.maintainers.MH0386 ];
   };
 }
